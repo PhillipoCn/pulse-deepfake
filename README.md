@@ -118,6 +118,10 @@ it lets only ~47% of real videos through; its AUC is the fair number.
 - Datasets (not included, request access from their authors): UBFC-rPPG (Bobbia et al. 2019),
   FaceForensics++ (Rössler et al. 2019). Trained models are not included either; train your own.
 
+## Acknowledgements
+
+- Paula Costa, for helping record reference heart-rate readings (Apple Watch) during the webcam and phone tests.
+
 ## Datasets
 
 - **UBFC-rPPG**: unzip so subject folders sit under `data/ubfc/` (e.g.
