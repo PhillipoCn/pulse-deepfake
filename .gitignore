@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# Datasets - licensed, never redistribute (UBFC-rPPG, FaceForensics++)
+data/
+
+# Personal videos (faces)
+People's samples/
+
+# Generated results, caches, plots (contain faces and dataset-derived data)
+outputs/
+
+# Models: face model is downloaded (see README); trained detectors are FF++-derived
+models/
+
+# FaceForensics++ download script - obtained through their access form
+download-FaceForensics.py
